@@ -8,5 +8,5 @@ for($i = 0; $i < 20; $i++){
   $load = sys_getloadavg();
   echo "data: {\"time\": \"{$timestamp}\", \"load\": {$load[0]}}\n\n";
   flush();
-  sleep(5);
+  sleep(2);
 }
