@@ -1,6 +1,0 @@
-{
-  "require": {
-    "nesbot/carbon": "^2.53",
-    "aws/aws-sdk-php": "^3.283"
-  }
-}
